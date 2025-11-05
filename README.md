@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/dmcyfelix?style=social)](https://github.com/dmcyfelix?tab=followers)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmcyfelix.dmcyfelix)
 
-Felix Fu is the CEO of Chengdu Daimacreat Tech Co., Ltd.
+Felix Fu is the CEO of Chengdu Daima Chuangyuan Technology Co., Ltd.
 His research focuses on applying programming technologies to solve problems in the field of civil engineering, particularly in AutoCAD plugin development and the research and development of models and systems for geological disaster and infrastructure monitoring and early warning.
 Felix Fu’s technical expertise includes Python, C#, WPF, and databases.
 
