@@ -1,16 +1,13 @@
-## Hi there 👋
+## Felix Fu
 
-<!--
-**dmcyfelix/dmcyfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Badge](https://img.shields.io/github/followers/dmcyfelix?style=social)](https://github.com/dmcyfelix?tab=followers)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dmcyfelix.dmcyfelix)
 
-Here are some ideas to get you started:
+Felix Fu is the CEO of Chengdu Daimacreat Tech Co., Ltd.
+His research focuses on applying programming technologies to solve problems in the field of civil engineering, particularly in AutoCAD plugin development and the research and development of models and systems for geological disaster and infrastructure monitoring and early warning.
+Felix Fu’s technical expertise includes Python, C#, WPF, and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dmcyfelix&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dmcyfelix&langs_count=3&hide=javascript,go,html,css,tex)
